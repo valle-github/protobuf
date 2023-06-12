@@ -1,5 +1,2 @@
-protobuf
-jupyter?
-jupyter=
 notebook==6.5.4
-protobuf==4.23.2
+grpcio-tools==1.54.2
