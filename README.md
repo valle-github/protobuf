@@ -1,5 +1,5 @@
 # protobuf
-Huge thanks to Hussein Nassers Youtube video protobuf.dev/getting-started/pythontutorial/ and Matthias Döring datascienceblog post https://www.datascienceblog.net/post/programming/essential-protobuf-guide-python/
+Huge thanks to Hussein Nassers Youtube video https://www.youtube.com/watch?v=46O73On0gyI and Matthias Döring datascienceblog post https://www.datascienceblog.net/post/programming/essential-protobuf-guide-python/
 
 ## What is protobuf?
 Protobuf is a way to serialize data into a binary format, just 1s & 0s. This means that your data is incomprehensible unless you know the data-structure so you can interpret this into actual data. This enables your data to be way smaller than if it followed any other "readable" data format such as json or csv which is very important when handling larger data volumes.
